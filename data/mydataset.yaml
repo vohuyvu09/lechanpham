@@ -1,0 +1,40 @@
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number , light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number' , 'light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number' , 'light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number' , 'light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number' , 'light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number' , 'light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 2
+names: ['number' , 'light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 10
+names: ['number0','number1','number2','number3','number4','number5','number6','number7','number8','number9','light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 11
+names: ['number0','number1','number2','number3','number4','number5','number6','number7','number8','number9','light']
+train: ../train_data/train
+val: ../train_data/train
+nc: 11
+names: ['number0','number1','number2','number3','number4','number5','number6','number7','number8','number9','light']
